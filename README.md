@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Dangi</h1>Django 
+<h1 align="center">Hi 👋, I'm Abhishek Dangi</h1> 
 <h3 align="center">A passionate backend developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg">
 
