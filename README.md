@@ -1,5 +1,5 @@
 <h1 align="center">Hello!  My Profile Viewer<br></h1>
-  <h2>Thanks for visiting my gitub account I'm Abhishek Dangi</h2> 
+  <h2 align="center">Thanks for visiting my gitub account I'm Abhishek Dangi</h2> 
 <h2 align="center">A passionate Django backend developer from Nepal</h2>
 <img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg">
 
