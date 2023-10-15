@@ -1,8 +1,7 @@
 <h1 align="center">Hello!  My Profile  Viewer's<br></h1>
   <h2>Thanks for visiting my gitub account I'm Abhishek Dangi</h2> 
 <h2 align="center">A passionate Django backend developer from Nepal</h2>
-<!-- <img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg"> -->
-<img src="https://maps.googleapis.com/maps/api/streetview?size=600x400&location=Latitude,Longitude&fov=80&heading=70&pitch=0" alt="Google Maps Photo">
+<img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ad&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ad" /> </p>
