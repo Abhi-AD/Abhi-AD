@@ -2,7 +2,7 @@
   <h2>Thanks for visiting my gitub account I'm Abhishek Dangi</h2> 
 <h2 align="center">A passionate Django backend developer from Nepal</h2>
 <!-- <img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg"> -->
-<img align="right" alt="Coding" width="400" src="https://network-king.net/wp-content/uploads/2023/05/AdobeStock_231619969.jpeg">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/maps/uv?pb=!1s0x399799a0c6382623%3A0x296c6aec5b778c14!5sAbhishek%20Dangi!15sCgIgARICEAE&imagekey=!1e10!2sAF1QipOrI34lxx_u3hly9KmivdOxOjVlDGZ3a7c83zOy#">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ad&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ad" /> </p>
