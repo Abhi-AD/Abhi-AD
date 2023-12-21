@@ -36,7 +36,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Abhi-AD/Abhi-AD/output/snake.svg" alt="Snake animation" />
-
-###
