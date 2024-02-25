@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/dangiabhi332" target="blank"><img src="https://img.shields.io/twitter/follow/dangiabhi332?logo=twitter&style=for-the-badge" alt="dangiabhi332" /></a> </p>
 
-- 🌱 I’m currently Learning **Django, Python**
+- 🌱 I’m Currently Learning **Django, Python**
 
 - 📫 How to reach  me **dangiabhi332@gmail,com**
 
