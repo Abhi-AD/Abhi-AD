@@ -3,7 +3,8 @@
   <br></h1>
 <h2 align="center">Thanks for Visiting my github account I'm Abhishek Dangi</h2> 
 <h2 align="center">A Passionate Full Stack developer from Nepal.</h2>
-<img align="right" alt="Coding" width="400" src="profile.png">
+<img align="right" alt="Coding" width="400" src="profile.png" style="border-radius: 30rem;">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi-ad&label=Profile%20views&color=0e75b6&style=flat" alt="abhi-ad" /> </p>
