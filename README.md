@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello! Viewers....!</h1> 
 <h2 align="center">Thanks for Visiting my GitHub account.  I'm Abhishek Dangi</h2>
 <h2 align="center">A Passionate Full Stack Developer from Nepal.</h2>
@@ -18,7 +17,7 @@
 - 🌱 I’m Currently Full Stack Developer!
 
 - 📫 How to reach me: **dangiabhi332@gmail.com**<br>
-                      **dangiabhishek0806@gmail.com**
+  **dangiabhishek0806@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
